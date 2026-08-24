@@ -1,0 +1,16 @@
+Reglas del Truco 
+
+El Truco es un juego de cartas jugado con una baraja española de 40 cartas, donde se eliminan los 8 y 9. El objetivo del juego es ganar puntos a través de rondas, y el primer jugador en alcanzar el puntaje establecido (generalmente 30) gana la partida.
+
+Valor de las Cartas: El valor de las cartas en Truco, de mayor a menor, es el siguiente:
+
+1 de Espada (la carta más fuerte).
+1 de Bastos.
+7 de Espadas y 7 de Oros.
+3, 2, 1 Copa y Oro, 12, 11 , 10, 7, 6, 5, 4 (en orden descendente).
+
+Desarrollo de la Mano: Cada jugador recibe 3 cartas. En cada ronda, ambos jugadores juegan una carta y quien tenga la carta de mayor valor gana la ronda. Si un jugador quiere apostar más puntos, puede decir "Truco", lo que le permite aumentar la apuesta de la ronda. El oponente puede aceptar, rechazar o subir la apuesta.
+
+Puntos: El jugador que gane una ronda recibe 1 punto. El Truco tiene una apuesta adicional que permite ganar más puntos si el oponente acepta el desafío.
+
+Condiciones de Victoria: El primer jugador en alcanzar los puntos predeterminados gana la partida.
